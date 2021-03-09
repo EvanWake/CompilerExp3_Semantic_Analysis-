@@ -1,3 +1,8 @@
 # Help
 ---
-I really need help! 
+I really need help!
+
+commit
+
+push
+ 
